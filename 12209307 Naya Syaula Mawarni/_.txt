@@ -1,2 +1,6 @@
 TUGAS LOGIKA PEMROGRAMAN 
 LINK "https://github.com/nayasyaula/php_logika.git"
+
+- pengumpulan tugas css pure tanggal 02 februari 2024
+
+https://github.com/nayasyaula/web_css_pure.git
